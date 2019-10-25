@@ -1,0 +1,18 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Member(s)</title>
+</head>
+<body>
+    <a href="http://localhost:8080/new_member.html">Add a new Member</a><br><br>
+    <% count = 0 %>
+    <% members_data.forEach(function(team_member) {%>
+        <div>
+            <%count++%>Member Name: <%=team_member.name%> <br><br>
+        </div>
+    <% }); %>
+    <%=count%> Member(s) displayed
+</body>
+</html>

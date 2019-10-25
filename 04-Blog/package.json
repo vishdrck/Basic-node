@@ -1,0 +1,12 @@
+{
+  "name": "04-blog",
+  "version": "1.0.0",
+  "description": "My node Blog",
+  "main": "index.js",
+  "dependencies": {
+    "express": "*",
+    "body-parser": "*"
+  },
+  "author": "Sampath_Sandaruwan",
+  "license": "ISC"
+}

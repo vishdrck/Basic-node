@@ -1,0 +1,11 @@
+{
+  "name": "05-render",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "*",
+    "ejs": "*"
+  },
+  "author": "SandaruOne"
+}

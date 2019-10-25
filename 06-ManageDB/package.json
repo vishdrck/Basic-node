@@ -1,0 +1,13 @@
+{
+  "name": "db_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "*",
+    "ejs": "*",
+    "php": "*",
+    "mysql": "*"
+  },
+  "author": "SandauOne"
+}

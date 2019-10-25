@@ -1,0 +1,15 @@
+{
+  "name": "02-color",
+  "version": "1.0.0",
+  "description": "Use npm",
+  "main": "console_color.js",
+  "scripts": {
+    "test": "none"
+  },
+  "dependencies": {
+    "colors": "latest",
+    "underscore": "latest"
+  },
+  "author": "",
+  "license": "ISC"
+}
